@@ -24,7 +24,7 @@ function NoMath() {
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/SPA-Project">
         <Header />
             <main className="container content">
               <Routes>
