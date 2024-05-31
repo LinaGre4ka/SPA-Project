@@ -4,7 +4,7 @@ function Header() {
     return <nav className="orange accent-2">
     <div className="container">
         <div className="nav-wrapper">
-            <Link to="/" className="brand-logo center">SPA React Project</Link>
+            <Link to="/" className="brand-logo center">SPA Project</Link>
             <ul id="nav-mobile" className="right hide-on-med-and-down">
                 <li>
                     <Link to ="/contact">Contact</Link>
